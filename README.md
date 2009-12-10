@@ -2,6 +2,10 @@
 
 Rails generator for models with flex fields.
 
+## Install
+
+    ./script/plugin install git://github.com/bellbind/rails-plugin-schemaless.git
+
 ## Example
 
 It uses `Item` as example model name.
