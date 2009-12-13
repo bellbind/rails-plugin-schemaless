@@ -35,4 +35,4 @@ query:
 
 ## License
 
-Copyright (c) 2009 bellbind, released under the MIT license
+Copyright (c) 2009 [bellbind](http://twitter.com/bellbind), released under the MIT license
